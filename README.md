@@ -134,10 +134,15 @@ qmk compile -kb handwired/dactyl_manuform/5x6 -km macos
 ## 参考资料
 
 [Kevin Eckert 的 YouTube 视频](https://www.youtube.com/playlist?list=PLJcTwFs4jAY0VnJDXhexZw7X3OIjXQkiY)
+
 [tshort/dactyl-keyboard](https://github.com/tshort/dactyl-keyboard)
+
 [qmk 文档](https://docs.qmk.fm/)
+
 [reset arduino](https://www.shellhacks.com/arduino-pro-micro-reset-restore-bootloader/)
+
 [slave 无响应解决方法](https://github.com/qmk/qmk_firmware/issues/9697)
+
 [一些排错](https://docs.splitkb.com/hc/en-us/articles/360010588860-Only-one-half-of-my-keyboard-works-at-a-time-but-not-when-they-are-both-connected)
 
 
