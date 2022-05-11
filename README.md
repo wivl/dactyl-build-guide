@@ -82,6 +82,8 @@ qmk compile -kb handwired/dactyl_manuform/5x6 -km macos
 ```
 其中 <code>macos</code> 为我自己的 <code>keymap</code> 命名，请换成你自己的
 
+在[此](https://docs.qmk.fm/#/keycodes_basic)可以找到 qmk 提供的 keycode
+
 ### 刷固件
 
 **刷固件前需要断开连接两个键盘的听筒线，并且两侧都需要刷**
