@@ -103,7 +103,8 @@ qmk compile -kb handwired/dactyl_manuform/5x6 -km macos
 > 如果你发现 reset arduino 后 qmk toolbox 才检测到连接，并且几秒后自动断开，那么你需要在 reset 并且检测到连接后快速进行 flash
 
 ### DEBUG
-默认设置为将 usb 连接到左侧键盘，即左键盘为 master，右键盘为 slave，你可以在 你的 keymap 文件夹中的 <code>config.h</code> 设置
+默认设置为将 usb 连接到左侧键盘，即左键盘为 master，右键盘为 slave。
+若要使用右侧连接 usb，你可以在 你的 keymap 文件夹中的 <code>config.h</code> 设置
 
 ```c
 #define MASTER_RIGHT
